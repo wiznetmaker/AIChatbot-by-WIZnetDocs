@@ -1,4 +1,4 @@
-# PDF QA Chatbot Project
+# Project : AIChatbot-by-WIZnetDocs 
 
 ## Introduction
 This project involves the development of a PDF QA chatbot utilizing the Retrieval-Augmented Generation (RAG) approach, designed for corporate environments to create document-based Q&A systems. It combines Azure OCR, ChromaDB, and the OpenAI API to create an advanced document-based question-answering system.
